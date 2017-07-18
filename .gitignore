@@ -1,4 +1,4 @@
 *.pyc
 notes.egg-info/
-key.py
+notes/key.py
 notes/my_db
