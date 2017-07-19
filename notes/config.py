@@ -1,1 +1,1 @@
-db_name="my_db"
+DB_CONNECTION_STRING = "mongodb://localhost:27017/"
